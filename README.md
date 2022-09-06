@@ -5,7 +5,7 @@
 ### Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
 width="40" height="40"/> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="40" height="40"/>
-<img src="https://logospng.org/wp-content/uploads/html-5.png" width="40" height="40"/>
+<img src="https://icon-library.com/images/html5-icon/html5-icon-14.jpg" width="40" height="40"/>
 <div>
 <a href="https://github.com/Lgusta20">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lgusta20&layout=compact&langs_count=7&theme=dracula"/>
