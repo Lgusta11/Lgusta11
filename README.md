@@ -5,7 +5,7 @@
 ### Estou aprendendo
 <img src="http://lite.acad.univali.br/portugol/assets/img/logo.png"
 width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+<img src="https://i.pinimg.com/originals/28/75/3d/28753ddf79d70042ba86564947e13bf5.png"
 width="40" height="40"/> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" width="40" height="40"/>
 <img src="https://icon-library.com/images/html5-icon/html5-icon-14.jpg" width="40" height="40"/>
 <div>
