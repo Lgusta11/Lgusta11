@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Luiz Gustavo and my nickname is "Gusta"!
+### Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno de informática determinado a absorver conhecimento. Tenho grande interesse em explorar novas linguagens de programação e estou totalmente focado no desenvolvimento técnico. Em constante evolução, enfrento desafios e contribuo para a comunidade. Estudo com dedicação para me tornar um desenvolvedor.
 
 
   <div>
