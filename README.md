@@ -17,7 +17,7 @@ Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-### Eu estou estudando... 🧩
+  ### Eu estou estudando... 🧩
 <div style="display: inline_block">
   
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -27,7 +27,7 @@ Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno
   
  
 </div><br/>
-### GitHub Stats 
+
 <div>
 
 <a href="https://github.com/Lgusta20">
