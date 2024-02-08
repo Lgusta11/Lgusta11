@@ -27,7 +27,7 @@ Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno
   
  
 </div><br/>
-  ### GitHub Stats 
+### GitHub Stats 
 <div>
 
 <a href="https://github.com/Lgusta20">
