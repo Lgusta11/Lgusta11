@@ -42,7 +42,7 @@ Olá, sou o Luiz Gustavo, mas pode me chamar de Gusta. Com 17 anos, sou um aluno
 <a href="https://youtube.com/@gustaffx8463?si=EnSIkaIECMiOmarE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/lgusta44_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/gustazz44_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luiz-gustavo-nogueira-de-lima-506b162b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/gustavo-nogueira-506b162b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div><center>
 
 
